@@ -1,0 +1,6 @@
+http://www.walla.co.il/accessibility>הצהרת  1.0
+http://www.walla.co.il/archive  1.0
+http://www.walla.co.il/rss  1.0
+http://www.walla.co.il/about  1.0
+http://www.walla.co.il  0.8639837946162847
+http://www.walla.co.il/  0.17747503711964158
