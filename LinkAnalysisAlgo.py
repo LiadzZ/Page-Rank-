@@ -1,8 +1,6 @@
 """
 Page_Rank_Link_Analysis
 
-Liad Nehemia 204419600
-Yogev Orenshtein 200844272
 
 """
 
